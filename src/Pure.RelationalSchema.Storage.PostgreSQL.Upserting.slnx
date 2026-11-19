@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Pure.RelationalSchema.Storage.PostgreSQL.Upserting.Tests/Pure.RelationalSchema.Storage.PostgreSQL.Upserting.Tests.csproj" />
+  </Folder>
+  <Project Path="Pure.RelationalSchema.Storage.PostgreSQL.Upserting/Pure.RelationalSchema.Storage.PostgreSQL.Upserting.csproj" />
+</Solution>
